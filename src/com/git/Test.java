@@ -1,4 +1,4 @@
-gpackage com.git;
+package com.git;
 
 public class Test {
 	//hello
